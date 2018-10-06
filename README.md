@@ -5,7 +5,7 @@ In this workshop we will first deploy a sample nodejs application on OpenShift. 
 
 
 Prerequisites:
-* Minishift can be found [here](https://https://github.com/minishift/minishift/releases)
+* Minishift can be found [here](https://github.com/minishift/minishift/releases)
 * OC command-line can be found  [here](https://github.com/openshift/origin/releases)
 
 Start Minishift with the following options: 
