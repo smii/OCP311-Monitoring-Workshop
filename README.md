@@ -116,7 +116,7 @@ Edit the prometheus configmap in order to configure new scrape target.
 ```bash
 oc edit configmap prometheus -n kube-system
 ```
-Paste the following sample scrape configuration into the configmap and save:
+Paste the following sample (NodeJS application) scrape configuration into the configmap and save:
 ```bash
     - job_name: NodeJS
       scrape_interval: 5s
